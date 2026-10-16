@@ -1,0 +1,7 @@
+-r requirements-api.txt
+pytest>=8
+httpx>=0.27
+pycodestyle>=2.11
+streamlit>=1.40
+plotly>=5.20
+requests>=2.31

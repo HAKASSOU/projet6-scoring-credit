@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+lightgbm>=4.3
+pandas>=2.1
+numpy>=1.26
+pyarrow>=15

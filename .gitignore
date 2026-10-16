@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.venv/
+
+# Données volumineuses (restent hors du dépôt)
+processed/
+*.csv
+*.zip
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Les petits CSV du modèle restent versionnés
+!models/*.csv
